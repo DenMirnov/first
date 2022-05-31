@@ -1,0 +1,53 @@
+
+h1{
+    color:rgb(92, 131, 87);
+    font-size: 3em;
+    text-align: center;
+    margin: auto;
+
+}
+body{
+    
+    background-color: rgb(150, 230, 230);
+    
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.img{
+    text-align: center;
+   border: 10px;
+   border-color: aquamarine;
+    
+}
+.link-main{
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: rebeccapurple;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    font-family: cursive;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+}
+.glave{
+    color: rgb(209, 54, 201);
+    margin: 10px;
+    font-family: cursive;
+}
+a:hover{
+    background: gold;
+}
+p{
+    
+    padding-left: 25px;
+}
